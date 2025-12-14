@@ -1,0 +1,13 @@
+no;curve_id;growth.temp;process;flux;temp;K;ln.rate
+1;1;20;acclimation;respiration;16;289.15;-2.062578328
+2;1;20;acclimation;respiration;19;292.15;-1.324379392
+3;1;20;acclimation;respiration;22;295.15;-0.954168071
+4;1;20;acclimation;respiration;25;298.15;-0.794436749
+5;1;20;acclimation;respiration;28;301.15;-0.182036425
+6;1;20;acclimation;respiration;31;304.15;0.174240071
+7;1;20;acclimation;respiration;34;307.15;-0.044627539
+8;1;20;acclimation;respiration;37;310.15;0.480506896
+9;1;20;acclimation;respiration;40;313.15;0.387941883
+10;1;20;acclimation;respiration;43;316.15;0.393655157
+11;1;20;acclimation;respiration;46;319.15;-3.863195772
+12;1;20;acclimation;respiration;49;322.15;-1.723524353
